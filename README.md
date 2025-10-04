@@ -49,6 +49,3 @@ This notebook includes the main steps of a credit risk modeling process:
 - Analyzed results to understand model performance.
 - Deployed the trained Linear Regression model to generate LGD predictions on new data.
 
-
-  model = LinearRegression()
-  model.fit(X_train, y_train)
